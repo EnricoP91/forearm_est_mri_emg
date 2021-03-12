@@ -1,3 +1,10 @@
 data\emg\udev_semgF.mat
 data\emg\wext_semgF.mat
 data\emg\wflex_semgF.mat
+data/emg/udev_semgF.mat
+data/emg/wext_semgF.mat
+data/emg/wflex_semgF.mat
+lib/fixRoiOnCentroid.m
+lib/importroitxt.m
+lib/prepare_figure.asv
+main_estimation_WinWidth.asv
